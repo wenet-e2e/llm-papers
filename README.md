@@ -11,3 +11,9 @@ List of Large Lanugage Model Papers
 - ChatGPT: [Introducing ChatGPT](https://openai.com/blog/chatgpt), blog (2022)
 - GPT-4: [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) (2023)
 
+
+## Prompt
+
+- Chain-of-Thought: [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models]https://arxiv.org/pdf/2201.11903.pdf) (Google, NeurIPS, 2022)
+- ReAct: [REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629.pdf) (Google, ICLR, 2023)
+- Self-Ask: [MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03350.pdf) (UW, 2023)
