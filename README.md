@@ -17,3 +17,13 @@ List of Large Lanugage Model Papers
 - Chain-of-Thought: [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) (Google, NeurIPS, 2022)
 - ReAct: [REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629.pdf) (Google, ICLR, 2023)
 - Self-Ask: [MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03350.pdf) (UW, 2023)
+
+
+## Multi Modality
+
+### Image
+
+### Speech
+
+- AudioGPT: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/pdf/2304.12995.pdf) (ZJU, 2023.04, [github](https://github.com/AIGC-Audio/AudioGPT))
+- SpeechGPT: [SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities](https://arxiv.org/pdf/2305.11000.pdf) (FUDAN, 2023.05, [github](https://0nutation.github.io/SpeechGPT.github.io/))
