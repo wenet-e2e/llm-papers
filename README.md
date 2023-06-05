@@ -23,6 +23,13 @@ List of Large Lanugage Model Papers
 
 ### Image
 
+- BLIP-2: [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) (Salesforce, 2023.01)
+- PaLM-E: [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) (Google, 2023.03)
+- LLaVA: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf) (Microsoft, 2023.04), [github](https://github.com/haotian-liu/LLaVA)
+- MiniGPT-4: [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf) (KAUST, 2023.04)
+- mPLUG-Owl: [mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://arxiv.org/pdf/2304.14178.pdf) (Alibaba, 2023.04)
+- InstructBLIP: [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/pdf/2305.06500.pdf) (Salesforce, 2023.05)
+
 ### Speech
 
 - AudioGPT: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/pdf/2304.12995.pdf) (ZJU, 2023.04, [github](https://github.com/AIGC-Audio/AudioGPT))
