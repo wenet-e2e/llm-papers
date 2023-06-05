@@ -18,6 +18,14 @@ List of Large Lanugage Model Papers
 - ReAct: [REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629.pdf) (Google, ICLR, 2023)
 - Self-Ask: [MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03350.pdf) (UW, 2023)
 
+## Finetune
+- Prompt Tuning: [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf) (Google, EMNLP, 2021)
+- Prefix Tuning: [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf) (Stanford, IJCNLP, 2021)
+- LoRA: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) (Microsoft, ICLR, 2022)
+- P-Tuning: [P-Tuning: Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks](https://aclanthology.org/2022.acl-short.8.pdf) (Tsinghua, ACL, 2022)
+- P-Tuning v2: [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/pdf/2110.07602.pdf) (Tsinghua, ACL, 2022)
+- AdaLoRA: [Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.10512.pdf) (Georgia Tech, ICLR, 2023)
+- QLoRA: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf) (UW, Submitted to NeurIPS, 2023)
 
 ## Multi Modality
 
